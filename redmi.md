@@ -1,2 +1,3 @@
 -- #backend setUp
 --.gitkeep => for tracking status
+--npm i prettier -> for ignoring confilt in github {prettierRC hi likhte hain}
